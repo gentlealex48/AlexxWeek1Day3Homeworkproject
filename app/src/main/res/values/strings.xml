@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlexxWeek1Day3Homeworkproject</string>
+    <string name="come_here">come here</string>
+    <string name="invite_me">invite me</string>
+    <string name="call_me">call me</string>
+    <string name="give_me">give me</string>
+    <string name="send_me">send me</string>
+</resources>

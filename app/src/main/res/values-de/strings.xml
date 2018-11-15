@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlexxWeek1Day3Homeworkproject</string>
+    <string name="come_here">komm her</string>
+    <string name="invite_me">lade mich ein</string>
+    <string name="call_me">ruf mich an</string>
+    <string name="give_me">gib mir</string>
+    <string name="send_me">schick mir</string>
+</resources>

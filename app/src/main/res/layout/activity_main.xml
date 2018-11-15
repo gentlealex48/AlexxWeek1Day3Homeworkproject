@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvHelloMessanger"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="28sp"
+        android:textColor="#F00"
+        android:text="@string/come_here"/>
+    <TextView
+        android:id="@+id/come_here"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="28sp"
+        android:textColor="#F00"
+        android:text="@string/come_here"/>
+
+
+    <TextView
+        android:id="@+id/invite_me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:textSize="25sp"
+        android:textColor="#F00"
+        android:text="@string/invite_me" />
+
+    <TextView
+        android:id="@+id/call_me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:textSize="25sp"
+        android:textColor="#F00"
+        android:text="@string/call_me" />
+    <TextView
+        android:id="@+id/give_me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="bottom"
+        android:textSize="25sp"
+        android:textColor="#F00"
+        android:text="@string/give_me" />
+    <TextView
+        android:id="@+id/send_me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:textSize="25sp"
+        android:textColor="#F00"
+        android:text="@string/send_me" />
+
+
+
+</LinearLayout>
